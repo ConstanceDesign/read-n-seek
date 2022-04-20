@@ -62,4 +62,4 @@ To run tests, get the source code at git clone [SnugglesMcGee/reead-and-seek](ht
 - Date: April 17, 2022
 - Author: Constance Mitchell
 - Email: [info@constance.design](mailto:user@example.com)
-- Acknowledgements: Many thanks always to UofT Coding Bootcamp
+- Acknowledgements: Many thanks always to UofT Coding Bootcamp, many BCS helped with this one, especially for Heroku and MongoAtlas.
