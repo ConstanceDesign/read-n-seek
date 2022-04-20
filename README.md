@@ -45,7 +45,7 @@ This app is open to contributions. Open up an Issue with suggested improvements 
 
 ## Testing
 
-To run tests, get the source code at git clone [SnugglesMcGee/reead-and-seek](https://github.com/SnugglesMcGee/seek-and-read) and install dependencies. Test with nodemon by typing: `npm run watch`.
+To run tests, get the source code at git clone [SnugglesMcGee/read-n-seek](https://github.com/SnugglesMcGee/seek-n-read) and install dependencies. Test with nodemon by typing: `npm run watch`.
 
 ## Visuals
 
@@ -55,7 +55,7 @@ To run tests, get the source code at git clone [SnugglesMcGee/reead-and-seek](ht
 
 ## Deployment Link
 
-[Heroku](https://infinite-basin-51401.herokuapp.com/)
+[Heroku](https://read-n-seek.herokuapp.com/)
 
 ## Additional Information
 
